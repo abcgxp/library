@@ -2,7 +2,7 @@
 title: My GitHub Pages Notebook!
 ---
 
-# 🗒️ AndrewGXP's Library!
+# 🗒️ ABCGXP's Library!
 
 Welcome! This is my personal wiki of technical notes! 
 
