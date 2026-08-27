@@ -1,6 +1,6 @@
-# 📚 AndrewGXP's Library
+# 📚 ABCGXP's Library
 
-🔗 **Live site:** https://andrewgxp.github.io/library/
+🔗 **Live site:** https://abcgxp.github.io/library/
 
 This repository powers my personal knowledge library — a living notebook where I keep:
 
